@@ -1,2 +1,2 @@
-# CodeSide
-Access my all resource that I teach on YouTube.
+# CodeResource - by Abhi
+> Access my all resource that I teach on YouTube.
